@@ -1,5 +1,5 @@
 # <center> 🚆🚂 **NEXT**_RAIL_ 🚂🚆 </center>
-A railway reservation system made as the course project for DBMS/CSE202 made using MySQL/ReactJS/Django. <br>
+A railway reservation system made using MySQL/ReactJS/Django. <br>
 
 ## <B> Landing Page </B> 👨‍💻 <br>
 
